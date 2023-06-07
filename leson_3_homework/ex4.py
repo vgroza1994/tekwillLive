@@ -7,4 +7,5 @@ timpul2=int(9)
 timpul3=int(11)
 rez=timpul1+timpul2+timpul3
 
-print("Media aritmeciva a celor 3 incercari este de"),print(float(timpul1)+int(timpul2)+int(timpul3),'secunde!')
+print("Media aritmeciva a celor 3 incercari este de"),\
+    print(float(timpul1)+int(timpul2)+int(timpul3),'secunde!')
